@@ -35,9 +35,6 @@ export default class SignUp extends React.Component {
            style={{   width: 100, height: 100 }} />  */}
         </View>
         <Text style={styles.heading}>Sign Up</Text>
-        {this.state.errorMessage && (
-          <Text style={{color: 'red'}}>{this.state.errorMessage}</Text>
-        )}
 
         <View style={styles.card}>
           <Card borderRadius={20}>
@@ -56,6 +53,9 @@ export default class SignUp extends React.Component {
               onChangeText={password => this.setState({password})}
               value={this.state.password}
             />
+            {this.state.errorMessage && (
+              <Text style={{color: 'red'}}>{this.state.errorMessage}</Text>
+            )}
           </Card>
         </View>
         <TouchableOpacity onPress={this.handleSignUp}>

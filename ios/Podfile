@@ -12,6 +12,7 @@ target 'StockView' do
     :hermes_enabled => false
   )
 
+
   target 'StockViewTests' do
     inherit! :complete
     # Pods for testing

@@ -1,9 +1,6 @@
-import React, {Fragment} from 'react';
-import {
-  createSwitchNavigator,
-  createAppContainer,
-  createStackNavigator,
-} from 'react-navigation';
+import React from 'react';
+import {createSwitchNavigator, createAppContainer} from 'react-navigation';
+import {SafeAreaProvider} from 'react-native-safe-area-context';
 import Loading from './src/screens/Loading';
 import SignUp from './src/screens/SignUp';
 import Login from './src/screens/Login';
@@ -22,5 +19,12 @@ const SwitchNavigator = createSwitchNavigator(
   },
 );
 
-const App = createAppContainer(SwitchNavigator);
-export default App;
+export default function App() {
+  const Main = createAppContainer(SwitchNavigator);
+
+  return (
+    <SafeAreaProvider>
+      <Main />
+    </SafeAreaProvider>
+  );
+}

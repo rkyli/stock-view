@@ -86,6 +86,7 @@
 		13B07FAE1A68108700A75B9A /* StockView */ = {
 			isa = PBXGroup;
 			children = (
+				E4D7369A27B2A2D70084CDA5 /* New Group */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.m */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -122,6 +123,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				E5A5A46756D156C45DABFBFD /* Pods */,
+				FD7159FE93AE42FF803A044F /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -137,6 +139,13 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		E4D7369A27B2A2D70084CDA5 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
 		E5A5A46756D156C45DABFBFD /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -145,8 +154,14 @@
 				EEBE08D84D742000DE960571 /* Pods-StockView-StockViewTests.debug.xcconfig */,
 				50AFA03CCE66ACE09318A829 /* Pods-StockView-StockViewTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		FD7159FE93AE42FF803A044F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
