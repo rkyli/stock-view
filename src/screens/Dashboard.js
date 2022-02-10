@@ -18,7 +18,7 @@ import SearchBar from '../components/SearchBar';
 export default class Dashboard extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {currentUser: null, errorMessage: null};
+    this.state = {currentUser: null, errorMessage: null, searchResult: []};
   }
   onPressButton = () => {
     console.log('Press Signout');
@@ -28,35 +28,19 @@ export default class Dashboard extends React.Component {
       .catch(err => this.setState({errorMessage: err.message}));
   };
 
-  searchAllStocks = async text => {
-    console.log('searching keyword: ' + text);
-    console.log('ALPHA URL: ' + Config.ALPHA_VANTAGE_QUERY_URL);
-
-    // turn search all stocks to functional components and return here?
-    try {
-      const res = fetch(
-        `${Config.ALPHA_VANTAGE_QUERY_URL}?function=SYMBOL_SEARCH&keywords=${text}&apikey=${Config.ALPHA_VANTAGE_API_KEY}`,
-        {
-          method: 'GET',
-          headers: {
-            Accept: 'application/json',
-            'Content-Type': 'application/json',
-          },
-        },
-      );
-      console.log(res);
-      return res;
-    } catch (err) {
-      console.error(err);
-    }
-  };
+  // getSearchResult = result => {
+  //   console.log('search result in dashboard:' + result);
+  //   this.setState({searchResult: result});
+  // };
 
   render() {
     const {currentUser} = this.state;
+    if (this.state.searchResult.length !== 0) {
+    }
     return (
       <>
         <SafeAreaView style={[styles.container, {flexDirection: 'column'}]}>
-          <SearchBar />
+          <SearchBar navigation={this.props.navigation} />
           <View style={styles.rest} />
         </SafeAreaView>
       </>
@@ -71,10 +55,10 @@ export default class Dashboard extends React.Component {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    height: '100%',
   },
   rest: {
-    flex: 10,
+    height: '50%',
     backgroundColor: '##fff',
   },
 });

@@ -7,7 +7,6 @@ import {
   StyleSheet,
   Dimensions,
   TouchableOpacity,
-  useState,
 } from 'react-native';
 import {getAuth, signInWithEmailAndPassword} from 'firebase/auth';
 import {Card} from 'react-native-elements';
