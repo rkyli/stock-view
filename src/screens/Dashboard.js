@@ -16,7 +16,7 @@ import {SafeAreaView} from 'react-native-safe-area-context';
 import Config from 'react-native-config';
 import SearchBar from '../components/SearchBar';
 export default class Dashboard extends React.Component {
-  constructor(props) {
+  constructor({props, navigation}) {
     super(props);
     this.state = {currentUser: null, errorMessage: null, searchResult: []};
   }
@@ -40,8 +40,8 @@ export default class Dashboard extends React.Component {
     return (
       <>
         <SafeAreaView style={[styles.container, {flexDirection: 'column'}]}>
-          <SearchBar navigation={this.props.navigation} />
-          <View style={styles.rest} />
+          <SearchBar navigation={this.navigation} />
+          <View style={styles.rest}></View>
         </SafeAreaView>
       </>
     );

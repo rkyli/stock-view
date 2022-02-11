@@ -10,6 +10,7 @@ import {
 } from 'react-native';
 import {getAuth, signInWithEmailAndPassword} from 'firebase/auth';
 import {Card} from 'react-native-elements';
+
 export default class Login extends React.Component {
   state = {
     email: '',

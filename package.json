@@ -11,15 +11,23 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/bottom-tabs": "^5.11.15",
+    "@react-navigation/native": "^5.9.8",
+    "@react-navigation/stack": "^5.14.9",
     "firebase": "^9.6.6",
+    "immutability-helper": "^3.1.1",
+    "lodash": "^4.17.21",
     "react": "17.0.2",
     "react-native": "0.67.2",
+    "react-native-charts-wrapper": "^0.5.7",
     "react-native-config": "^1.4.5",
     "react-native-elements": "^3.4.2",
     "react-native-gesture-handler": "^2.2.0",
+    "react-native-reanimated": "^2.4.1",
     "react-native-safe-area-context": "^3.3.2",
-    "react-native-vector-icons": "^9.0.0",
-    "react-navigation": "^4.4.4"
+    "react-native-screens": "^3.11.0",
+    "react-native-vector-icons": "^9.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.17.0",

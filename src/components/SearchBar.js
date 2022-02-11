@@ -3,11 +3,12 @@ import {View, Text, StyleSheet, TouchableOpacity} from 'react-native';
 import Config from 'react-native-config';
 import {Input} from 'react-native-elements';
 import {ScrollView} from 'react-native-gesture-handler';
+import {useNavigation} from '@react-navigation/native';
 //import {useNavigation} from 'react-navigation';
-const SearchBar = props => {
+const SearchBar = () => {
   const [searchText, setSearchText] = useState('');
   const [searchResult, setSearchResult] = useState([]);
-  //const navigation = useNavigation();
+  const navigation = useNavigation();
 
   useEffect(() => {
     console.log('here:' + searchText);
@@ -74,7 +75,7 @@ const SearchBar = props => {
             searchResult.map(stock => (
               <TouchableOpacity
                 onPress={() => {
-                  props.navigation.navigate('StockDetails', {
+                  navigation.navigate('StockDetails', {
                     stockSymbol: stock['1. symbol'],
                   });
                 }}

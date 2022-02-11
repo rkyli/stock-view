@@ -1,15 +1,14 @@
 import React, {useState, useEffect} from 'react';
 import {View, Text, StyleSheet, TouchableOpacity} from 'react-native';
-
-const StockDetails = props => {
-  const {navigation} = props;
+import {useNavigation} from '@react-navigation/native';
+const StockDetails = ({route, navigation}) => {
+  const {stockSymbol} = route.params;
   return (
     <View style={styles.container}>
       <View style={styles.stockHeading}>
-        <Text style={styles.stockSymbol}>
-          {navigation.getParam('stockSymbol', 'none')}
-        </Text>
+        <Text style={styles.stockSymbol}>{stockSymbol}</Text>
       </View>
+      <View></View>
     </View>
   );
 };
