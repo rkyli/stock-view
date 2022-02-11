@@ -104,7 +104,6 @@ const styles = StyleSheet.create({
     // borderColor: '#4d4c4c',
     // borderWidth: 3,
     fontSize: 16,
-    padding: 10,
   },
   searchItem: {
     borderTopWidth: 1,

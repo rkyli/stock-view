@@ -39,10 +39,8 @@ export default class Dashboard extends React.Component {
     }
     return (
       <>
-        <SafeAreaView style={[styles.container, {flexDirection: 'column'}]}>
-          <SearchBar navigation={this.navigation} />
-          <View style={styles.rest}></View>
-        </SafeAreaView>
+        <SearchBar navigation={this.navigation} />
+        <View style={styles.rest}></View>
       </>
     );
   }
