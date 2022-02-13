@@ -13,6 +13,8 @@ target 'StockView' do
   )
 
 
+  pod 'RNSVG', :path => '../node_modules/react-native-svg'
+
   target 'StockViewTests' do
     inherit! :complete
     # Pods for testing

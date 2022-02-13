@@ -11,42 +11,58 @@ const SearchBar = () => {
   const navigation = useNavigation();
 
   useEffect(() => {
+    let isCancelled = false;
+
     console.log('here:' + searchText);
     //clearTimeOut(this.timeOutId);
-    if (searchText) {
-      fetch(
-        `${Config.ALPHA_VANTAGE_QUERY_URL}?function=SYMBOL_SEARCH&keywords=${searchText}&apikey=${Config.ALPHA_VANTAGE_API_KEY}`,
-        {
-          method: 'GET',
-          headers: {
-            Accept: 'application/json',
-            'Content-Type': 'application/json',
+    const getStockSearch = async () => {
+      if (!isCancelled) {
+        console.log('calling search...');
+        const data = await fetch(
+          `${Config.ALPHA_VANTAGE_QUERY_URL}?function=SYMBOL_SEARCH&keywords=${searchText}&apikey=${Config.ALPHA_VANTAGE_API_KEY}`,
+          {
+            method: 'GET',
+            headers: {
+              Accept: 'application/json',
+              'Content-Type': 'application/json',
+            },
           },
-        },
-      )
-        .then(res => res.json())
-        .then(stockData => {
-          if (stockData !== undefined) {
-            console.log(
-              stockData.bestMatches.filter(
+        )
+          .then(res => res.json())
+          .then(stockData => {
+            if (stockData !== undefined) {
+              console.log(
+                stockData.bestMatches.filter(
+                  x =>
+                    x['3. type'] === 'Equity' &&
+                    x['4. region'] === 'United States',
+                ),
+              );
+              let filteredStockSearch = stockData.bestMatches.filter(
                 x =>
                   x['3. type'] === 'Equity' &&
                   x['4. region'] === 'United States',
-              ),
-            );
-            let filteredStockSearch = stockData.bestMatches.filter(
-              x =>
-                x['3. type'] === 'Equity' && x['4. region'] === 'United States',
-            );
-            setSearchResult(filteredStockSearch);
-          } else {
-            setSearchResult([]);
-          }
-        })
-        .catch(err => {
-          console.error(err);
-        });
+              );
+              setSearchResult(filteredStockSearch);
+            } else {
+              setSearchResult([]);
+            }
+          })
+          .catch(err => {
+            console.error(err);
+          });
+      }
+    };
+
+    if (searchText) {
+      setTimeout(() => {
+        getStockSearch();
+      }, 1000);
     }
+
+    return () => {
+      isCancelled = true;
+    };
   }, [searchText]);
 
   return (
@@ -77,6 +93,7 @@ const SearchBar = () => {
                 onPress={() => {
                   navigation.navigate('StockDetails', {
                     stockSymbol: stock['1. symbol'],
+                    stockName: stock['2. name'],
                   });
                 }}
                 key={stock['1. symbol']}>
