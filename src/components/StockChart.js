@@ -28,7 +28,7 @@ const StockChart = props => {
         close: parseFloat(data[key]['4. close']),
         high: parseFloat(data[key]['2. high']),
         low: parseFloat(data[key]['3. low']),
-        x: new Date(key),
+        x: key,
       };
       mappedData.push(item);
     }
@@ -49,14 +49,18 @@ const StockChart = props => {
       .then(res => res.json())
       .then(priceData => {
         const mockData = require('../mockData/intraday.json');
-        priceData = mockData;
-        setTimeSeries(priceData);
-        //setTimeSeries(priceData[`Time Series (${duration})`]);
-        // }
+        //priceData = mockData;
+        //setTimeSeries(priceData);
+        console.log(
+          'priceData:' + JSON.stringify(priceData[`Time Series (${duration})`]),
+        );
+        setTimeSeries(priceData[`Time Series (${duration})`]);
       })
       .then(res => {
-        setVisualizedData(mapData);
-        console.log('visualizedData:' + JSON.stringify(visualizedData));
+        const mappedData = mapData();
+        console.log('map:' + JSON.stringify(mappedData));
+        setVisualizedData(mappedData);
+        console.log('visualizedData:' + visualizedData);
       });
   };
   useEffect(() => {
@@ -89,10 +93,8 @@ const StockChart = props => {
           //     tmp.low = timeSeries[key]['3. low'];
           //   });
           // if (mounted) {
-          const mockData = require('../mockData/intraday.json');
-          priceData = mockData;
-          setTimeSeries(priceData);
-          //setTimeSeries(priceData[`Time Series (${duration})`]);
+
+          setTimeSeries(priceData[`Time Series (${duration})`]);
           // }
         })
         .then(res => {

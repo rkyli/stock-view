@@ -25,7 +25,7 @@ const StockQuote = props => {
         .then(quoteData => {
           if (quoteData !== undefined) {
             const mockData = require('../mockData/stockQuote.json');
-            quoteData = mockData;
+            //quoteData = mockData;
             console.log('quo:' + JSON.stringify(quoteData['Global Quote']));
             setQuote(quoteData['Global Quote']);
           }
@@ -46,15 +46,13 @@ const StockQuote = props => {
       <View style={styles.row}>
         <Text style={styles.quoteText}>
           High:
-          {quote.length > 0
-            ? Number.parseFloat(quote['03. high']).toFixed(3)
-            : ''}
+          {Number.parseFloat(quote['03. high']).toFixed(3)}
         </Text>
         <Text style={styles.quoteText}>
           Open: {Number.parseFloat(quote['02. open']).toFixed(3)}
         </Text>
         <Text style={styles.quoteText}>Vol: {quote['06. volume']}</Text>
-        <View style={[styles.changeRow, {alignItems: 'flex-end'}]}>
+        <View style={[styles.priceRow, {alignItems: 'flex-end'}]}>
           <Text
             style={[
               styles.price,
@@ -118,21 +116,26 @@ const styles = StyleSheet.create({
   },
   price: {
     fontSize: 20,
-    paddingLeft: 50,
     color: '#fff',
   },
   change: {
     fontSize: 11,
-    paddingLeft: 70,
+  },
+  priceRow: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    backgroundColor: '#000',
+    paddingLeft: '1%',
   },
   changeRow: {
     flexDirection: 'row',
     flexWrap: 'wrap',
     backgroundColor: '#000',
+    paddingLeft: '15%',
   },
   changePercent: {
     fontSize: 11,
-    paddingLeft: 10,
+    paddingLeft: '2%',
   },
   positive: {
     color: '#31aa52',

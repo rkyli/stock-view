@@ -32,7 +32,7 @@ const SearchBar = () => {
           .then(stockData => {
             if (stockData !== undefined) {
               const mockData = require('../mockData/symbolSearch.json');
-              stockData = mockData;
+              //stockData = mockData;
               console.log(
                 stockData.bestMatches.filter(
                   x =>
