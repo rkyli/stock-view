@@ -18,6 +18,57 @@ const WatchList = () => {
   const auth = getAuth();
   const db = getFirestore();
   const watchListRef = doc(db, 'watchlist', auth.currentUser.uid);
+  const navigation = useNavigation();
+
+  const [watchList, setWatchList] = useState([]);
+  const [stockSymbol, setStockSymbol] = useState('');
+  const [stockName, setStockName] = useState('');
+  useEffect(() => {
+    const fetchWatchlist = async () => {
+      const docSnap = await getDoc(watchListRef);
+      if (docSnap.exists()) {
+        setWatchList(docSnap.data().stock);
+      }
+    };
+    fetchWatchlist();
+  }, [watchListRef]);
+
+  const getStock = async stockSymbol => {
+    await fetch(
+      `${Config.ALPHA_VANTAGE_QUERY_URL}?function=SYMBOL_SEARCH&keywords=${stockSymbol}&apikey=${Config.ALPHA_VANTAGE_API_KEY}`,
+
+      {
+        method: 'GET',
+        headers: {
+          Accept: 'application/json',
+          'Content-Type': 'application/json',
+        },
+      },
+    )
+      .then(res => res.json())
+      .then(stockData => {
+        if (stockData !== undefined) {
+          console.log(
+            stockData.bestMatches.filter(
+              x =>
+                x['3. type'] === 'Equity' && x['4. region'] === 'United States',
+            ),
+          );
+          const data = stockData.bestMatches.filter(
+            x =>
+              x['3. type'] === 'Equity' && x['4. region'] === 'United States',
+          );
+          setStockSymbol(data['1. symbol']);
+          setStockName(data['2. name']);
+        }
+      })
+      .then(() => {
+        navigation.navigate('StockDetails', {
+          stockSymbol: stockSymbol,
+          stockName: stockName,
+        });
+      });
+  };
 
   const list = [
     {
@@ -36,16 +87,17 @@ const WatchList = () => {
   return (
     <View style={styles.container}>
       <Text style={{color: 'white'}}>Watchlist:</Text>
-      <ScrollView style={styles.watctList}>
-        {list.map((item, i) => (
-          <ListItem key={i} bottomDivider onPress={() => {}}>
-            <Icon name={item.icon} />
-            <ListItem.Content>
-              <ListItem.Title>{item.title}</ListItem.Title>
-            </ListItem.Content>
-            <ListItem.Chevron />
-          </ListItem>
-        ))}
+      <ScrollView style={styles.watchList}>
+        {watchList?.length > 0 &&
+          watchList.map((item, i) => (
+            <ListItem key={i} bottomDivider onPress={() => getStock(item)}>
+              {/* <Icon name={item.icon} /> */}
+              <ListItem.Content>
+                <ListItem.Title>{item}</ListItem.Title>
+              </ListItem.Content>
+              <ListItem.Chevron />
+            </ListItem>
+          ))}
       </ScrollView>
     </View>
   );
