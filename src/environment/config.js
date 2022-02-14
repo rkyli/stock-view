@@ -22,5 +22,3 @@ const firebaseConfig = {
 
 // Initialize Firebase
 const firebaseApp = initializeApp(firebaseConfig);
-
-//connectAuthEmulator(auth, 'http://localhost:9099');

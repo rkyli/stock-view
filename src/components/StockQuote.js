@@ -11,7 +11,7 @@ const StockQuote = props => {
   useEffect(() => {
     let isCancelled = false;
     const getQuote = async () => {
-      const data = await fetch(
+      await fetch(
         `${Config.ALPHA_VANTAGE_QUERY_URL}?function=GLOBAL_QUOTE&symbol=${props.stockSymbol}&apikey=${Config.ALPHA_VANTAGE_API_KEY}`,
         {
           method: 'GET',
@@ -23,8 +23,12 @@ const StockQuote = props => {
       )
         .then(res => res.json())
         .then(quoteData => {
-          console.log('quo:' + JSON.stringify(quoteData['Global Quote']));
-          setQuote(quoteData['Global Quote']);
+          if (quoteData !== undefined) {
+            const mockData = require('../mockData/stockQuote.json');
+            quoteData = mockData;
+            console.log('quo:' + JSON.stringify(quoteData['Global Quote']));
+            setQuote(quoteData['Global Quote']);
+          }
         });
     };
     if (!isCancelled) {
@@ -41,7 +45,10 @@ const StockQuote = props => {
     <View style={styles.container}>
       <View style={styles.row}>
         <Text style={styles.quoteText}>
-          High: {Number.parseFloat(quote['03. high']).toFixed(3)}
+          High:
+          {quote.length > 0
+            ? Number.parseFloat(quote['03. high']).toFixed(3)
+            : ''}
         </Text>
         <Text style={styles.quoteText}>
           Open: {Number.parseFloat(quote['02. open']).toFixed(3)}
@@ -111,7 +118,7 @@ const styles = StyleSheet.create({
   },
   price: {
     fontSize: 20,
-    paddingLeft: 5,
+    paddingLeft: 50,
     color: '#fff',
   },
   change: {
