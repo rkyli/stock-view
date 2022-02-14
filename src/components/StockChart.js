@@ -19,8 +19,12 @@ const StockChart = props => {
   const [timeSeries, setTimeSeries] = useState([]);
   const [visualizedData, setVisualizedData] = useState([]);
 
-  const mapData = () => {
-    let data = timeSeries;
+  useEffect(() => {
+    getTimeSeriesDaily();
+  }, []);
+
+  const mapData = data => {
+    //let data = timeSeries;
     let mappedData = [];
     for (let key in data) {
       let item = {
@@ -34,10 +38,10 @@ const StockChart = props => {
     }
     return mappedData;
   };
-  const getStock = async duration => {
-    console.log('duration:' + duration);
+  const getStock = async dur => {
+    console.log('duration:' + dur);
     await fetch(
-      `${Config.ALPHA_VANTAGE_QUERY_URL}?function=TIME_SERIES_INTRADAY&symbol=${props.stockSymbol}&interval=${duration}&apikey=${Config.ALPHA_VANTAGE_API_KEY}`,
+      `${Config.ALPHA_VANTAGE_QUERY_URL}?function=TIME_SERIES_INTRADAY&symbol=${props.stockSymbol}&interval=${dur}&apikey=${Config.ALPHA_VANTAGE_API_KEY}`,
       {
         method: 'GET',
         headers: {
@@ -51,85 +55,89 @@ const StockChart = props => {
         const mockData = require('../mockData/intraday.json');
         //priceData = mockData;
         //setTimeSeries(priceData);
-        console.log(
-          'priceData:' + JSON.stringify(priceData[`Time Series (${duration})`]),
-        );
-        setTimeSeries(priceData[`Time Series (${duration})`]);
+        // console.log(
+        //   'priceData:' + JSON.stringify(priceData[`Time Series (${dur})`]),
+        // );
+        setDuration(dur);
+        setTimeSeries(priceData[`Time Series (${dur})`]);
+        return priceData[`Time Series (${dur})`];
       })
       .then(res => {
-        const mappedData = mapData();
-        console.log('map:' + JSON.stringify(mappedData));
+        const mappedData = mapData(res).reverse();
+        // console.log('map:' + JSON.stringify(mappedData));
         setVisualizedData(mappedData);
-        console.log('visualizedData:' + visualizedData);
+        // console.log('visualizedData:' + visualizedData);
       });
   };
-  useEffect(() => {
-    //let isCancelled = false;
-    // let mounted = true;
-    const getStockPriceByDuration = async () => {
-      await fetch(
-        `${Config.ALPHA_VANTAGE_QUERY_URL}?function=TIME_SERIES_INTRADAY&symbol=${props.stockSymbol}&interval=${duration}&apikey=${Config.ALPHA_VANTAGE_API_KEY}`,
-        {
-          method: 'GET',
-          headers: {
-            Accept: 'application/json',
-            'Content-Type': 'application/json',
-          },
+
+  const getTimeSeriesDaily = async () => {
+    await fetch(
+      `${Config.ALPHA_VANTAGE_QUERY_URL}?function=TIME_SERIES_DAILY&symbol=${props.stockSymbol}&apikey=${Config.ALPHA_VANTAGE_API_KEY}`,
+      {
+        method: 'GET',
+        headers: {
+          Accept: 'application/json',
+          'Content-Type': 'application/json',
         },
-      )
-        .then(res => res.json())
-        .then(priceData => {
-          //   console.log(
-          //     'priceData:' +
-          //       JSON.stringify(priceData[`Time Series (${duration})`]),
-          //   );
+      },
+    )
+      .then(res => res.json())
+      .then(priceData => {
+        const mockData = require('../mockData/intraday.json');
+        //priceData = mockData;
+        //setTimeSeries(priceData);
+        // console.log(
+        //   'daily data:' + JSON.stringify(priceData['Time Series (Daily)']),
+        // );
+        setDuration('1D');
+        setTimeSeries(priceData['Time Series (Daily)']);
+        return priceData['Time Series (Daily)'];
+      })
+      .then(res => {
+        const mappedData = mapData(res).reverse();
+        // console.log('map:' + JSON.stringify(mappedData));
+        setVisualizedData(mappedData);
+        // console.log('visualizedData:' + visualizedData);
+      });
+  };
 
-          //   let tmp = [];
-          //   Object.keys(timeSeries).forEach(key => {
-          //     tmp.x = new Date(key);
-          //     tmp.open = timeSeries[key]['1. open'];
-          //     tmp.close = timeSeries[key]['4. close'];
-          //     tmp.high = timeSeries[key]['2. high'];
-          //     tmp.low = timeSeries[key]['3. low'];
-          //   });
-          // if (mounted) {
-
-          setTimeSeries(priceData[`Time Series (${duration})`]);
-          // }
-        })
-        .then(res => {
-          //if (mounted) {
-          setVisualizedData(mapData);
-          //}
-          console.log('visualizedData:' + JSON.stringify(visualizedData));
-        });
-    };
-
-    //getStockPriceByDuration();
-  }, [duration]);
+  const getRange = t => {
+    if (t !== undefined) {
+      //   console.log('t:' + t);
+      //   console.log('duration:' + duration);
+      if (duration === '1D') {
+        return t;
+      } else {
+        //return `${t}`.split(' ')[1];
+        return t;
+      }
+    }
+  };
 
   return (
     <View style={styles.container}>
       <View style={styles.row}>
-        <TouchableOpacity onPress={() => setDuration('1min')}>
+        <TouchableOpacity onPress={() => getStock('1min')}>
           <Text style={styles.durationText}>1m</Text>
           {/* <Chip title="1m" /> */}
         </TouchableOpacity>
         <TouchableOpacity onPress={() => getStock('5min')}>
           <Text style={styles.durationText}>5m</Text>
         </TouchableOpacity>
+        <TouchableOpacity onPress={() => getTimeSeriesDaily()}>
+          <Text style={styles.durationText}>1D</Text>
+        </TouchableOpacity>
       </View>
       <VictoryChart
         style={styles.chart}
         width={400}
-        domainPadding={{x: 25}}
         scale={{x: 'time'}}
         theme={VictoryTheme.material}>
         <VictoryAxis
           scale="time"
-          tickFormat={t => `${t}`}
+          tickFormat={t => getRange(t)}
           fixLabelOverlap
-          style={{tickLabels: {padding: 16, fontSize: 8}}}
+          style={{tickLabels: {padding: 15, fontSize: 8}}}
         />
         <VictoryAxis
           dependentAxis
@@ -137,6 +145,7 @@ const StockChart = props => {
         />
         <VictoryCandlestick
           candleColors={{positive: '#31aa52', negative: '#eb4132'}}
+          candleWidth={0.8}
           data={visualizedData}
         />
       </VictoryChart>
@@ -150,15 +159,20 @@ const styles = StyleSheet.create({
     backgroundColor: '#000',
   },
   row: {
+    marginTop: 10,
+    borderTopWidth: 1,
+    borderTopColor: '#fff',
     flexDirection: 'row',
     flexWrap: 'wrap',
     backgroundColor: '#000',
+    paddingLeft: '5%',
   },
   durationText: {
     fontSize: 13,
     paddingTop: 20,
     paddingLeft: 30,
     color: '#fff',
+    textDecorationLine: 'underline',
   },
   chart: {
     background: {fill: '#fff'},

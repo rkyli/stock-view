@@ -1,14 +1,19 @@
 import React, {useState, useEffect} from 'react';
 import {View, Text, StyleSheet, TouchableOpacity} from 'react-native';
 import Config from 'react-native-config';
-import {Input} from 'react-native-elements';
+import {Input, Icon} from 'react-native-elements';
 import {ScrollView} from 'react-native-gesture-handler';
 import {useNavigation} from '@react-navigation/native';
+import WatchList from '../components/WatchList';
 //import {useNavigation} from 'react-navigation';
 const SearchBar = () => {
   const [searchText, setSearchText] = useState('');
   const [searchResult, setSearchResult] = useState([]);
   const navigation = useNavigation();
+
+  const cancelSearchList = () => {
+    setSearchText('');
+  };
 
   useEffect(() => {
     let isCancelled = false;
@@ -80,6 +85,15 @@ const SearchBar = () => {
             color: 'white',
             size: 15,
           }}
+          rightIcon={{
+            type: 'font-awesome-5',
+            name: 'times',
+            color: 'white',
+            size: 15,
+            onPress: () => {
+              cancelSearchList();
+            },
+          }}
           value={searchText}
           onChangeText={text => {
             setSearchText(text);
@@ -105,6 +119,8 @@ const SearchBar = () => {
                 </View>
               </TouchableOpacity>
             ))}
+
+          {searchText === '' && <WatchList />}
         </ScrollView>
       </View>
     </>

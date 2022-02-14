@@ -3,6 +3,7 @@ import {View, Text, StyleSheet, TouchableOpacity} from 'react-native';
 import {useNavigation} from '@react-navigation/native';
 import StockChart from '../components/StockChart';
 import StockQuote from '../components/StockQuote';
+import StockNews from '../components/StockNews';
 import {Icon} from 'react-native-elements';
 import {
   getFirestore,
@@ -100,6 +101,9 @@ const StockDetails = ({route, navigation}) => {
       <View style={styles.stockChart}>
         <StockChart stockSymbol={stockSymbol} />
       </View>
+      <View style={styles.stockNews}>
+        <StockNews stockSymbol={stockSymbol} />
+      </View>
     </View>
   );
 };
@@ -107,6 +111,7 @@ const StockDetails = ({route, navigation}) => {
 const styles = StyleSheet.create({
   container: {
     percentage: '100%',
+    backgroundColor: '#ff2',
   },
   stockHeading: {
     percentage: '20%',
@@ -128,6 +133,7 @@ const styles = StyleSheet.create({
   row: {
     flexDirection: 'row',
     flexWrap: 'wrap',
+    justifyContent: 'space-between',
   },
   stockName: {
     fontSize: 15,
@@ -135,6 +141,9 @@ const styles = StyleSheet.create({
   },
   stockChart: {
     percentage: '40%',
+  },
+  stockNews: {
+    percent: '40%',
   },
 });
 export default StockDetails;

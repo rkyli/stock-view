@@ -1,0 +1,2630 @@
+{
+    "meta": {
+        "found": 19767,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "7ef13093-4bee-4990-96ce-5a2dfce5af5d",
+            "title": "Hold That Tesla! Inflation Will Be Made of Aluminum",
+            "description": "The metal used to be dirt cheap. No longer. It’s going to affect everything from government policy to the price of groceries.",
+            "keywords": "",
+            "snippet": "The industry joke was that to make money in aluminum, one should sell into any price rally. Not anymore. The fight against climate change — with its rush for ...",
+            "url": "https://www.washingtonpost.com/business/energy/hold-thatteslainflation-will-be-made-of-aluminum/2022/02/14/89e023ce-8d64-11ec-8ddd-52136988d263_story.html",
+            "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBTXDAUNMQI6ZDO5KIJWTCGSMM.jpg&w=1440",
+            "language": "en",
+            "published_at": "2022-02-14T07:18:39.000000Z",
+            "source": "washingtonpost.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": "NASDAQ",
+                    "exchange_long": "NASDAQ Stock Exchange",
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 29.9977,
+                    "sentiment_score": -0.05135,
+                    "highlights": [
+                        {
+                            "highlight": "For the new customers of aluminum, including the likes of <em>Tesla</em> <em>Inc</em>., a “we-must-have-the-metal” attitude pushes demand up even more.\n\nAdvertisement\n\nStory continues below advertisement\n\nUnder these conditions, the aluminum market shifted into a deficit of more than one million tons in 2021, a trend that’s likely to continue this year.",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Hold That <em>Tesla</em>! Inflation Will Be Made of Aluminum",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "236c6970-6385-4921-8a48-f9abb7b8bfdb",
+            "title": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc",
+            "description": "GuruFocus Article or News written by GuruFocusNews and the topic is about:",
+            "keywords": "GuruFocus, Article, News, GuruFocusNews, BABA, INTU, RXRX, S, S, GRAB, NAUT, HOOD, FB, NVDA, TSLA, RTLR, UNH, JNJ, ",
+            "snippet": "New Purchases: RXRX, S, S, GRAB, NAUT, HOOD, CFLT, DASH, AMPL, KIE, CPNG, AFRM, MQ, NEWR, ABNB, DM, RLX, ZY,\n\nRXRX, S, S, GRAB, NAUT, HOOD, CFLT, DASH, AMPL, KI...",
+            "url": "https://www.gurufocus.com/news/1641566/botty-investors-llc-buys-recursion-pharmaceuticals-inc-sentinelone-inc-sentinelone-inc-sells-alphabet-inc-agnc-investment-corp-annaly-capital-management-inc",
+            "image_url": "https://www.gurufocus.com/favicon.ico",
+            "language": "en",
+            "published_at": "2022-02-14T06:38:25.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": "NASDAQ",
+                    "exchange_long": "NASDAQ Stock Exchange",
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.668256,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Botty Investors LLC sold out a holding in <em>Tesla</em> <em>Inc</em>. The sale prices were between $780.59 and $1229.91, with an estimated average price of $1012.35.\n\nBotty Investors LLC sold out a holding in Rattler Midstream LP. The sale prices were between $10.52 and $13.1, with an estimated average price of $11.42.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "dbf5f01d-0fc3-462d-b7f5-698f8cbf1539",
+                    "title": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc",
+                    "description": "GuruFocus Article or News written by GuruFocusNews and the topic is about:",
+                    "keywords": "GuruFocus, Article, News, GuruFocusNews, BABA, INTU, RXRX, S, S, GRAB, NAUT, HOOD, FB, NVDA, TSLA, RTLR, UNH, JNJ, ",
+                    "snippet": "New Purchases: RXRX, S, S, GRAB, NAUT, HOOD, CFLT, DASH, AMPL, KIE, CPNG, AFRM, MQ, NEWR, ABNB, DM, RLX, ZY,\n\nRXRX, S, S, GRAB, NAUT, HOOD, CFLT, DASH, AMPL, KI...",
+                    "url": "https://www.gurufocus.com/news/1641566/read",
+                    "image_url": "https://www.gurufocus.com/favicon.ico",
+                    "language": "en",
+                    "published_at": "2022-02-14T06:38:25.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL.NE",
+                            "name": "Apple Inc.",
+                            "exchange": "NEO",
+                            "exchange_long": "NEO Exchange",
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 9.533859,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, <em>Apple</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 9.533886,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, <em>Apple</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 13.695247,
+                            "sentiment_score": 0.8402,
+                            "highlights": [
+                                {
+                                    "highlight": "Shares reduced by 22.97% <em>Amazon.com</em> <em>Inc</em> (AMZN) - 8,327 shares, 8.24% of the total portfolio. Shares reduced by 6.94% Recursion Pharmaceuticals Inc (RXRX) - 1,255,430 shares, 6.38% of the total portfolio. New Position La-Z-Boy Inc (LZB) - 466,746 shares, 5.03% of the total portfolio.",
+                                    "sentiment": 0.8402,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOG",
+                            "name": "Alphabet Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 36.453735,
+                            "sentiment_score": 0.1702,
+                            "highlights": [
+                                {
+                                    "highlight": ", RY, TXN, INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells <em>Alphabet</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For the details of Botty Investors LLC's stock buys and sells, go to https://www.gurufocus.com/guru/botty+investors+llc/current-portfolio/portfolio\n\n<em>Alphabet</em> <em>Inc</em> (GOOGL) - 31,138 shares, 26.76% of the total portfolio. Shares reduced by 22.97% Amazon.com Inc (AMZN) - 8,327 shares, 8.24% of the total portfolio.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells <em>Alphabet</em> <em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL",
+                            "name": "Alphabet Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 68.30781,
+                            "sentiment_score": 0.042167,
+                            "highlights": [
+                                {
+                                    "highlight": "New Purchases: RXRX, S, S, GRAB, NAUT, HOOD, CFLT, DASH, AMPL, KIE, CPNG, AFRM, MQ, NEWR, ABNB, DM, RLX, ZY,\n\nRXRX, S, S, GRAB, NAUT, HOOD, CFLT, DASH, AMPL, KIE, CPNG, AFRM, MQ, NEWR, ABNB, DM, RLX, ZY, Added Positions: BABA, INTU, RGNX, RBLX, NIU, MSOS,\n\nBABA, INTU, RGNX, RBLX, NIU, MSOS, Reduced Positions: <em>GOOGL</em>, AGNC, NLY, AAPL, MSFT, AMZN, MMP,",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "ET, EPD, V, TMO, DIS, XOM, CSCO, MMM, BTI, GBT, BAC, ATVI, ATXS,\n\n<em>GOOGL</em>, AGNC, NLY, AAPL, MSFT, AMZN, MMP, ET, EPD, V, TMO, DIS, XOM, CSCO, MMM, BTI, GBT, BAC, ATVI, ATXS, Sold Out: FB, NVDA, TSLA, RTLR, JNJ, UNH, PG, MA, MRK, JPM, LLY, HD, ASML, PYPL, ADBE, NFLX, ABT, CMCSA, CRM, COST, WMT, RDS.A, QCOM, PEP, NOW, MS, BRK.B, NKE, KEYS, VZ, MCD, LOW",
+                                    "sentiment": -0.4278,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", RY, TXN, INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells <em>Alphabet</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For the details of Botty Investors LLC's stock buys and sells, go to https://www.gurufocus.com/guru/botty+investors+llc/current-portfolio/portfolio\n\n<em>Alphabet</em> <em>Inc</em> (<em>GOOGL</em>) - 31,138 shares, 26.76% of the total portfolio. Shares reduced by 22.97% Amazon.com Inc (AMZN) - 8,327 shares, 8.24% of the total portfolio.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells <em>Alphabet</em> <em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AGNC",
+                            "name": "AGNC Investment Corp.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Real Estate",
+                            "match_score": 106.41844,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, <em>AGNC</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Investment</em> <em>Corp</em>, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells Alphabet Inc, <em>AGNC</em> <em>Investment</em> <em>Corp</em>, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AGNCP",
+                            "name": "AGNC Investment Corp.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Real Estate",
+                            "match_score": 106.41844,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, <em>AGNC</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Investment</em> <em>Corp</em>, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells Alphabet Inc, <em>AGNC</em> <em>Investment</em> <em>Corp</em>, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AGNCO",
+                            "name": "AGNC Investment Corp.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Real Estate",
+                            "match_score": 106.41844,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, <em>AGNC</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Investment</em> <em>Corp</em>, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells Alphabet Inc, <em>AGNC</em> <em>Investment</em> <em>Corp</em>, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AGNCM",
+                            "name": "AGNC Investment Corp.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Real Estate",
+                            "match_score": 106.41844,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, <em>AGNC</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Investment</em> <em>Corp</em>, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells Alphabet Inc, <em>AGNC</em> <em>Investment</em> <em>Corp</em>, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AGNCN",
+                            "name": "AGNC Investment Corp.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Real Estate",
+                            "match_score": 106.41844,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, <em>AGNC</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Investment</em> <em>Corp</em>, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells Alphabet Inc, <em>AGNC</em> <em>Investment</em> <em>Corp</em>, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "FB",
+                            "name": "Meta Platforms Inc",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 10.962021,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Botty Investors LLC sold out a holding in <em>Meta</em> <em>Platforms</em> <em>Inc</em>. The sale prices were between $306.84 and $347.56, with an estimated average price of $332.02.\n\nBotty Investors LLC sold out a holding in NVIDIA Corp. The sale prices were between $197.32 and $333.76, with an estimated average price of $277.31.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA",
+                            "name": "Tesla, Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 11.668256,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Botty Investors LLC sold out a holding in <em>Tesla</em> <em>Inc</em>. The sale prices were between $780.59 and $1229.91, with an estimated average price of $1012.35.\n\nBotty Investors LLC sold out a holding in Rattler Midstream LP. The sale prices were between $10.52 and $13.1, with an estimated average price of $11.42.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "INTU",
+                            "name": "Intuit Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 16.658499,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Botty Investors LLC added to a holding in <em>Intuit</em> <em>Inc</em> by 198.85%. The purchase prices were between $525.35 and $694.66, with an estimated average price of $619.73. The stock is now traded at around $535.810000. The impact to a portfolio due to this purchase was 0.17%. The holding were 1,297 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "RTLR",
+                            "name": "Rattler Midstream LP",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Energy",
+                            "match_score": 37.680885,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Botty Investors LLC sold out a holding in <em>Rattler</em> <em>Midstream</em> <em>LP</em>. The sale prices were between $10.52 and $13.1, with an estimated average price of $11.42.\n\nBotty Investors LLC sold out a holding in UnitedHealth Group Inc. The sale prices were between $387.01 and $505.58, with an estimated average price of $454.21.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "RXRX",
+                            "name": "Recursion Pharmaceuticals, Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 127.696396,
+                            "sentiment_score": 0.0701,
+                            "highlights": [
+                                {
+                                    "highlight": "New Purchases: <em>RXRX</em>, S, S, GRAB, NAUT, HOOD, CFLT, DASH, AMPL, KIE, CPNG, AFRM, MQ, NEWR, ABNB, DM, RLX, ZY,\n\n<em>RXRX</em>, S, S, GRAB, NAUT, HOOD, CFLT, DASH, AMPL, KIE, CPNG, AFRM, MQ, NEWR, ABNB, DM, RLX, ZY, Added Positions: BABA, INTU, RGNX, RBLX, NIU, MSOS,\n\nBABA, INTU, RGNX, RBLX, NIU, MSOS, Reduced Positions: GOOGL, AGNC, NLY, AAPL, MSFT, AMZN, MMP,",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "NFLX, ABT, CMCSA, CRM, COST, WMT, RDS.A, QCOM, PEP, NOW, MS, BRK.B, NKE, KEYS, VZ, MCD, LOW, NVS, NVO, SBUX, BMY, DHR, RY, TXN, INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys <em>Recursion</em>",
+                                    "sentiment": -0.4278,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Pharmaceuticals</em> <em>Inc</em>, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Shares reduced by 6.94% <em>Recursion</em> <em>Pharmaceuticals</em> <em>Inc</em> (<em>RXRX</em>) - 1,255,430 shares, 6.38% of the total portfolio. New Position La-Z-Boy Inc (LZB) - 466,746 shares, 5.03% of the total portfolio. SentinelOne Inc (S) - 224,890 shares, 3.37% of the total portfolio. New Position\n\nBotty Investors LLC initiated holding in <em>Recursion</em> <em>Pharmaceuticals</em> <em>Inc</em>.",
+                                    "sentiment": 0.7783,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys <em>Recursion</em> <em>Pharmaceuticals</em> <em>Inc</em>, SentinelOne Inc, SentinelOne Inc, Sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NAUT",
+                            "name": "Nautilus Biotechnology, Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 52.33082,
+                            "sentiment_score": -0.03295,
+                            "highlights": [
+                                {
+                                    "highlight": "New Purchases: RXRX, S, S, GRAB, <em>NAUT</em>, HOOD, CFLT, DASH, AMPL, KIE, CPNG, AFRM, MQ, NEWR, ABNB, DM, RLX, ZY,\n\nRXRX, S, S, GRAB, <em>NAUT</em>, HOOD, CFLT, DASH, AMPL, KIE, CPNG, AFRM, MQ, NEWR, ABNB, DM, RLX, ZY, Added Positions: BABA, INTU, RGNX, RBLX, NIU, MSOS,\n\nBABA, INTU, RGNX, RBLX, NIU, MSOS, Reduced Positions: GOOGL, AGNC, NLY, AAPL, MSFT, AMZN, MMP,",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "MCD, LOW, NVS, NVO, SBUX, BMY, DHR, RY, TXN, INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, <em>Nautilus</em>",
+                                    "sentiment": -0.4278,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Biotechnology</em> <em>Inc</em>, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC initiated holding in <em>Nautilus</em> <em>Biotechnology</em> <em>Inc</em>. The purchase prices were between $4.45 and $6.04, with an estimated average price of $5.34. The stock is now traded at around $4.070000. The impact to a portfolio due to this purchase was 2.23%. The holding were 1,449,551 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "HOOD",
+                            "name": "Robinhood Markets, Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 28.162907,
+                            "sentiment_score": 0.148,
+                            "highlights": [
+                                {
+                                    "highlight": "New Purchases: RXRX, S, S, GRAB, NAUT, <em>HOOD</em>, CFLT, DASH, AMPL, KIE, CPNG, AFRM, MQ, NEWR, ABNB, DM, RLX, ZY,\n\nRXRX, S, S, GRAB, NAUT, <em>HOOD</em>, CFLT, DASH, AMPL, KIE, CPNG, AFRM, MQ, NEWR, ABNB, DM, RLX, ZY, Added Positions: BABA, INTU, RGNX, RBLX, NIU, MSOS,\n\nBABA, INTU, RGNX, RBLX, NIU, MSOS, Reduced Positions: GOOGL, AGNC, NLY, AAPL, MSFT, AMZN, MMP,",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC initiated holding in <em>Robinhood</em> <em>Markets</em> <em>Inc</em>. The purchase prices were between $17.11 and $42.07, with an estimated average price of $30.37. The stock is now traded at around $13.320000. The impact to a portfolio due to this purchase was 2.14%. The holding were 406,500 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NLY",
+                            "name": "Annaly Capital Management, Inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Real Estate",
+                            "match_score": 134.6464,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": ", PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, <em>Annaly</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Capital</em> <em>Management</em> <em>Inc</em>, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells Alphabet Inc, AGNC Investment Corp, <em>Annaly</em> <em>Capital</em> <em>Management</em> <em>Inc</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JNJ",
+                            "name": "Johnson & Johnson",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 13.906107,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Botty Investors LLC sold out a holding in <em>Johnson</em> & <em>Johnson</em>. The sale prices were between $155.93 and $173.01, with an estimated average price of $163.78.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.BA",
+                            "name": "Apple Inc.",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 9.533575,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, <em>Apple</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL.BA",
+                            "name": "Alphabet Inc.",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 57.59127,
+                            "sentiment_score": 0.1702,
+                            "highlights": [
+                                {
+                                    "highlight": ", RY, TXN, INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells <em>Alphabet</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For the details of Botty Investors LLC's stock buys and sells, go to https://www.gurufocus.com/guru/botty+investors+llc/current-portfolio/portfolio\n\n<em>Alphabet</em> <em>Inc</em> (GOOGL) - 31,138 shares, 26.76% of the total portfolio. Shares reduced by 22.97% Amazon.com Inc (AMZN) - 8,327 shares, 8.24% of the total portfolio.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells <em>Alphabet</em> <em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "DJNJ2.BA",
+                            "name": "Johnson & Johnson",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 13.906143,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Botty Investors LLC sold out a holding in <em>Johnson</em> & <em>Johnson</em>. The sale prices were between $155.93 and $173.01, with an estimated average price of $163.78.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "DJNJ3.BA",
+                            "name": "Johnson & Johnson",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 13.906143,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Botty Investors LLC sold out a holding in <em>Johnson</em> & <em>Johnson</em>. The sale prices were between $155.93 and $173.01, with an estimated average price of $163.78.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAD.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.459228,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Botty Investors LLC sold out a holding in <em>NVIDIA</em> <em>Corp</em>. The sale prices were between $197.32 and $333.76, with an estimated average price of $277.31.\n\nBotty Investors LLC sold out a holding in Tesla Inc. The sale prices were between $780.59 and $1229.91, with an estimated average price of $1012.35.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLAD.BA",
+                            "name": "TESLA INC",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.667892,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Botty Investors LLC sold out a holding in <em>Tesla</em> <em>Inc</em>. The sale prices were between $780.59 and $1229.91, with an estimated average price of $1012.35.\n\nBotty Investors LLC sold out a holding in Rattler Midstream LP. The sale prices were between $10.52 and $13.1, with an estimated average price of $11.42.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTD.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.179541,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, <em>Microsoft</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Corp</em> during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLD.BA",
+                            "name": "APPLE INC",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 9.533514,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, <em>Apple</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTB.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.179541,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, <em>Microsoft</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Corp</em> during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTC.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.179541,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, <em>Microsoft</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Corp</em> during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLAC.BA",
+                            "name": "TESLA INC",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.667892,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Botty Investors LLC sold out a holding in <em>Tesla</em> <em>Inc</em>. The sale prices were between $780.59 and $1229.91, with an estimated average price of $1012.35.\n\nBotty Investors LLC sold out a holding in Rattler Midstream LP. The sale prices were between $10.52 and $13.1, with an estimated average price of $11.42.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAC.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.459228,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Botty Investors LLC sold out a holding in <em>NVIDIA</em> <em>Corp</em>. The sale prices were between $197.32 and $333.76, with an estimated average price of $277.31.\n\nBotty Investors LLC sold out a holding in Tesla Inc. The sale prices were between $780.59 and $1229.91, with an estimated average price of $1012.35.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOGLD.BA",
+                            "name": "ALPHABET INC",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 57.59127,
+                            "sentiment_score": 0.1702,
+                            "highlights": [
+                                {
+                                    "highlight": ", RY, TXN, INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells <em>Alphabet</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For the details of Botty Investors LLC's stock buys and sells, go to https://www.gurufocus.com/guru/botty+investors+llc/current-portfolio/portfolio\n\n<em>Alphabet</em> <em>Inc</em> (GOOGL) - 31,138 shares, 26.76% of the total portfolio. Shares reduced by 22.97% Amazon.com Inc (AMZN) - 8,327 shares, 8.24% of the total portfolio.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells <em>Alphabet</em> <em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLC.BA",
+                            "name": "APPLE INC",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 9.533514,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, <em>Apple</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "UNHD.BA",
+                            "name": "UNITEDHEALTH GROUP",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 16.32774,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Botty Investors LLC sold out a holding in <em>UnitedHealth</em> <em>Group</em> Inc. The sale prices were between $387.01 and $505.58, with an estimated average price of $454.21.\n\nBotty Investors LLC sold out a holding in Johnson & Johnson. The sale prices were between $155.93 and $173.01, with an estimated average price of $163.78.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": "SSE",
+                            "exchange_long": "Santiago Stock Exchange",
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 13.690337,
+                            "sentiment_score": 0.8402,
+                            "highlights": [
+                                {
+                                    "highlight": "Shares reduced by 22.97% <em>Amazon.com</em> <em>Inc</em> (AMZN) - 8,327 shares, 8.24% of the total portfolio. Shares reduced by 6.94% Recursion Pharmaceuticals Inc (RXRX) - 1,255,430 shares, 6.38% of the total portfolio. New Position La-Z-Boy Inc (LZB) - 466,746 shares, 5.03% of the total portfolio.",
+                                    "sentiment": 0.8402,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SONY",
+                            "name": "Sony Group Corporation",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 8.504807,
+                            "sentiment_score": -0.4278,
+                            "highlights": [
+                                {
+                                    "highlight": "ATVI, ATXS,\n\nGOOGL, AGNC, NLY, AAPL, MSFT, AMZN, MMP, ET, EPD, V, TMO, DIS, XOM, CSCO, MMM, BTI, GBT, BAC, ATVI, ATXS, Sold Out: FB, NVDA, TSLA, RTLR, JNJ, UNH, PG, MA, MRK, JPM, LLY, HD, ASML, PYPL, ADBE, NFLX, ABT, CMCSA, CRM, COST, WMT, RDS.A, QCOM, PEP, NOW, MS, BRK.B, NKE, KEYS, VZ, MCD, LOW, NVS, NVO, SBUX, BMY, DHR, RY, TXN, INFO, AZN, TM, <em>SONY</em>",
+                                    "sentiment": -0.4278,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": "SSE",
+                            "exchange_long": "Santiago Stock Exchange",
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 57.572594,
+                            "sentiment_score": 0.1702,
+                            "highlights": [
+                                {
+                                    "highlight": ", RY, TXN, INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells <em>Alphabet</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For the details of Botty Investors LLC's stock buys and sells, go to https://www.gurufocus.com/guru/botty+investors+llc/current-portfolio/portfolio\n\n<em>Alphabet</em> <em>Inc</em> (GOOGL) - 31,138 shares, 26.76% of the total portfolio. Shares reduced by 22.97% Amazon.com Inc (AMZN) - 8,327 shares, 8.24% of the total portfolio.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells <em>Alphabet</em> <em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLCL.SN",
+                            "name": "APPLE INC",
+                            "exchange": "SSE",
+                            "exchange_long": "Santiago Stock Exchange",
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 9.533405,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, <em>Apple</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTCL.SN",
+                            "name": "MICROSOFT CORP",
+                            "exchange": "SSE",
+                            "exchange_long": "Santiago Stock Exchange",
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.179205,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, <em>Microsoft</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Corp</em> during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.SN",
+                            "name": "Apple Inc.",
+                            "exchange": "SSE",
+                            "exchange_long": "Santiago Stock Exchange",
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 9.533276,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, <em>Apple</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOG.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": "SSE",
+                            "exchange_long": "Santiago Stock Exchange",
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 57.552727,
+                            "sentiment_score": 0.1702,
+                            "highlights": [
+                                {
+                                    "highlight": ", RY, TXN, INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells <em>Alphabet</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For the details of Botty Investors LLC's stock buys and sells, go to https://www.gurufocus.com/guru/botty+investors+llc/current-portfolio/portfolio\n\n<em>Alphabet</em> <em>Inc</em> (GOOGL) - 31,138 shares, 26.76% of the total portfolio. Shares reduced by 22.97% Amazon.com Inc (AMZN) - 8,327 shares, 8.24% of the total portfolio.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells <em>Alphabet</em> <em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZNCL.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": "SSE",
+                            "exchange_long": "Santiago Stock Exchange",
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.688939,
+                            "sentiment_score": 0.8402,
+                            "highlights": [
+                                {
+                                    "highlight": "Shares reduced by 22.97% <em>Amazon.com</em> <em>Inc</em> (AMZN) - 8,327 shares, 8.24% of the total portfolio. Shares reduced by 6.94% Recursion Pharmaceuticals Inc (RXRX) - 1,255,430 shares, 6.38% of the total portfolio. New Position La-Z-Boy Inc (LZB) - 466,746 shares, 5.03% of the total portfolio.",
+                                    "sentiment": 0.8402,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGCL.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": "SSE",
+                            "exchange_long": "Santiago Stock Exchange",
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 57.552727,
+                            "sentiment_score": 0.1702,
+                            "highlights": [
+                                {
+                                    "highlight": ", RY, TXN, INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells <em>Alphabet</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For the details of Botty Investors LLC's stock buys and sells, go to https://www.gurufocus.com/guru/botty+investors+llc/current-portfolio/portfolio\n\n<em>Alphabet</em> <em>Inc</em> (GOOGL) - 31,138 shares, 26.76% of the total portfolio. Shares reduced by 22.97% Amazon.com Inc (AMZN) - 8,327 shares, 8.24% of the total portfolio.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells <em>Alphabet</em> <em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "S",
+                            "name": "SentinelOne, Inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 102.26009,
+                            "sentiment_score": 0.0767,
+                            "highlights": [
+                                {
+                                    "highlight": "WMT, RDS.A, QCOM, PEP, NOW, MS, BRK.B, NKE, KEYS, VZ, MCD, LOW, NVS, NVO, SBUX, BMY, DHR, RY, TXN, INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, <em>SentinelOne</em>",
+                                    "sentiment": -0.4278,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, <em>SentinelOne</em> <em>Inc</em>, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>SentinelOne</em> <em>Inc</em> (S) - 224,890 shares, 3.37% of the total portfolio. New Position\n\nBotty Investors LLC initiated holding in Recursion Pharmaceuticals Inc. The purchase prices were between $16.14 and $21.34, with an estimated average price of $18.74. The stock is now traded at around $11.990000.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC initiated holding in <em>SentinelOne</em> <em>Inc</em>. The purchase prices were between $45.01 and $76.3, with an estimated average price of $58.55. The stock is now traded at around $45.080000. The impact to a portfolio due to this purchase was 3.37%. The holding were 224,890 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC initiated holding in <em>SentinelOne</em> <em>Inc</em>. The purchase prices were between $45.01 and $76.3, with an estimated average price of $58.55. The stock is now traded at around $45.080000. The impact to a portfolio due to this purchase was 3.37%. The holding were 224,890 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, <em>SentinelOne</em> <em>Inc</em>, <em>SentinelOne</em> <em>Inc</em>, Sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZ.DE",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": "XETRA",
+                            "exchange_long": "Deutsche Börse Xetra",
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 13.692982,
+                            "sentiment_score": 0.8402,
+                            "highlights": [
+                                {
+                                    "highlight": "Shares reduced by 22.97% <em>Amazon.com</em> <em>Inc</em> (AMZN) - 8,327 shares, 8.24% of the total portfolio. Shares reduced by 6.94% Recursion Pharmaceuticals Inc (RXRX) - 1,255,430 shares, 6.38% of the total portfolio. New Position La-Z-Boy Inc (LZB) - 466,746 shares, 5.03% of the total portfolio.",
+                                    "sentiment": 0.8402,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "APC.DE",
+                            "name": "Apple Inc.",
+                            "exchange": "XETRA",
+                            "exchange_long": "Deutsche Börse Xetra",
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 9.533434,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells Alphabet Inc, AGNC Investment Corp, Annaly Capital Management Inc, <em>Apple</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ABEA.DE",
+                            "name": "Alphabet Inc.",
+                            "exchange": "XETRA",
+                            "exchange_long": "Deutsche Börse Xetra",
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 57.646267,
+                            "sentiment_score": 0.1702,
+                            "highlights": [
+                                {
+                                    "highlight": ", RY, TXN, INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells <em>Alphabet</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For the details of Botty Investors LLC's stock buys and sells, go to https://www.gurufocus.com/guru/botty+investors+llc/current-portfolio/portfolio\n\n<em>Alphabet</em> <em>Inc</em> (GOOGL) - 31,138 shares, 26.76% of the total portfolio. Shares reduced by 22.97% Amazon.com Inc (AMZN) - 8,327 shares, 8.24% of the total portfolio.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells <em>Alphabet</em> <em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TL0.DE",
+                            "name": "Tesla, Inc.",
+                            "exchange": "XETRA",
+                            "exchange_long": "Deutsche Börse Xetra",
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 11.667418,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Botty Investors LLC sold out a holding in <em>Tesla</em> <em>Inc</em>. The sale prices were between $780.59 and $1229.91, with an estimated average price of $1012.35.\n\nBotty Investors LLC sold out a holding in Rattler Midstream LP. The sale prices were between $10.52 and $13.1, with an estimated average price of $11.42.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ABEC.DE",
+                            "name": "Alphabet Inc.",
+                            "exchange": "XETRA",
+                            "exchange_long": "Deutsche Börse Xetra",
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 57.64613,
+                            "sentiment_score": 0.1702,
+                            "highlights": [
+                                {
+                                    "highlight": ", RY, TXN, INFO, AZN, TM, SONY, AVGO, PFE, ODFL, ABBV, KO, SHOP, INTC, IDXX, GOOG, AMGN, ING, PM, WMB, TROW, MUFG, MDT, SMFG, NMR, SAN, LYG, ERIC, CVE, BBVA, TEF, AEG,\n\nChicago, IL, based Investment company Current Portfolio ) buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Grab Holdings Inc, Nautilus Biotechnology Inc, sells <em>Alphabet</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc, Apple Inc, Microsoft Corp during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Botty Investors LLC.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For the details of Botty Investors LLC's stock buys and sells, go to https://www.gurufocus.com/guru/botty+investors+llc/current-portfolio/portfolio\n\n<em>Alphabet</em> <em>Inc</em> (GOOGL) - 31,138 shares, 26.76% of the total portfolio. Shares reduced by 22.97% Amazon.com Inc (AMZN) - 8,327 shares, 8.24% of the total portfolio.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Botty Investors LLC Buys Recursion Pharmaceuticals Inc, SentinelOne Inc, SentinelOne Inc, Sells <em>Alphabet</em> <em>Inc</em>, AGNC Investment Corp, Annaly Capital Management Inc",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ITU.DE",
+                            "name": "Intuit Inc.",
+                            "exchange": "XETRA",
+                            "exchange_long": "Deutsche Börse Xetra",
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 16.655018,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Botty Investors LLC added to a holding in <em>Intuit</em> <em>Inc</em> by 198.85%. The purchase prices were between $525.35 and $694.66, with an estimated average price of $619.73. The stock is now traded at around $535.810000. The impact to a portfolio due to this purchase was 0.17%. The holding were 1,297 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "1a9afd5f-0774-43a4-b832-8437910da079",
+            "title": "Carmignac Gestion Buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc",
+            "description": "GuruFocus Article or News written by GuruFocusNews and the topic is about:",
+            "keywords": "GuruFocus, Article, News, GuruFocusNews, DHR, UBER, PANW, MELI, FB, NYT, PFE, LLY, STZ, TSLA, XPEV, S, COF, GPS, ETSY, MDT, FIS, TWLO, ",
+            "snippet": "New Purchases: PFE, LLY, STZ, TSLA, XPEV, S, S, SNAP, AVDX, DELL, NTRA, SDGR, CL, CHD, PG, BF.B, NIO, RIVN, CSCO, TDCX, NOV, SG,\n\nPFE, LLY, STZ, TSLA, XPEV, S, ...",
+            "url": "https://www.gurufocus.com/news/1641563/carmignac-gestion-buys-danaher-corp-uber-technologies-inc-palo-alto-networks-inc-sells-salesforcecom-inc-block-inc-paypal-holdings-inc",
+            "image_url": "https://www.gurufocus.com/favicon.ico",
+            "language": "en",
+            "published_at": "2022-02-14T06:38:15.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": "NASDAQ",
+                    "exchange_long": "NASDAQ Stock Exchange",
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 9.77711,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "Carmignac Gestion initiated holding in <em>Tesla</em> <em>Inc</em>. The purchase prices were between $780.59 and $1229.91, with an estimated average price of $1012.35. The stock is now traded at around $860.000000. The impact to a portfolio due to this purchase was 0.45%. The holding were 30,420 shares as of 2021-12-31.",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "2c165eb9-8416-48b3-9a13-6565bcb4c378",
+                    "title": "Carmignac Gestion Buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc",
+                    "description": "GuruFocus Article or News written by GuruFocusNews and the topic is about:",
+                    "keywords": "GuruFocus, Article, News, GuruFocusNews, DHR, UBER, PANW, MELI, FB, NYT, PFE, LLY, STZ, TSLA, XPEV, S, COF, GPS, ETSY, MDT, FIS, TWLO, ",
+                    "snippet": "New Purchases: PFE, LLY, STZ, TSLA, XPEV, S, S, SNAP, AVDX, DELL, NTRA, SDGR, CL, CHD, PG, BF.B, NIO, RIVN, CSCO, TDCX, NOV, SG,\n\nPFE, LLY, STZ, TSLA, XPEV, S, ...",
+                    "url": "https://www.gurufocus.com/news/1641563/read",
+                    "image_url": "https://www.gurufocus.com/favicon.ico",
+                    "language": "en",
+                    "published_at": "2022-02-14T06:38:15.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AMZN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 11.444771,
+                            "sentiment_score": 0.8807,
+                            "highlights": [
+                                {
+                                    "highlight": "Shares reduced by 8.31% <em>Amazon.com</em> <em>Inc</em> (AMZN) - 142,242 shares, 6.63% of the total portfolio. Shares added by 9.49% Meta Platforms Inc (FB) - 1,061,390 shares, 4.99% of the total portfolio. Shares added by 20.59% Microsoft Corp (MSFT) - 1,050,630 shares, 4.94% of the total portfolio.",
+                                    "sentiment": 0.8807,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "FB",
+                            "name": "Meta Platforms Inc",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 13.926479,
+                            "sentiment_score": 0.5681,
+                            "highlights": [
+                                {
+                                    "highlight": "Shares added by 9.49% <em>Meta</em> <em>Platforms</em> <em>Inc</em> (FB) - 1,061,390 shares, 4.99% of the total portfolio. Shares added by 20.59% Microsoft Corp (MSFT) - 1,050,630 shares, 4.94% of the total portfolio. Shares reduced by 27.24%\n\nCarmignac Gestion initiated holding in Pfizer Inc.",
+                                    "sentiment": 0.8402,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion added to a holding in <em>Meta</em> <em>Platforms</em> <em>Inc</em> by 20.59%. The purchase prices were between $306.84 and $347.56, with an estimated average price of $332.02. The stock is now traded at around $219.550000. The impact to a portfolio due to this purchase was 0.85%. The holding were 1,061,390 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JD",
+                            "name": "JD.com, Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 13.518432,
+                            "sentiment_score": 0.8807,
+                            "highlights": [
+                                {
+                                    "highlight": "Shares added by 48.35% <em>JD.com</em> <em>Inc</em> (JD) - 6,848,549 shares, 6.71% of the total portfolio. Shares reduced by 8.31% Amazon.com Inc (AMZN) - 142,242 shares, 6.63% of the total portfolio. Shares added by 9.49% Meta Platforms Inc (FB) - 1,061,390 shares, 4.99% of the total portfolio.",
+                                    "sentiment": 0.8807,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ETSY",
+                            "name": "Etsy, Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.751569,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "YY, UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII,\n\nCRM, SQ, PYPL, MSFT, NOW, ULTA, LULU, V, MTCH, COST, EDU, JD, NFLX, KC, GOOGL, RUN, YY, UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, <em>ETSY</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion sold out a holding in <em>Etsy</em> <em>Inc</em>. The sale prices were between $198.72 and $296.91, with an estimated average price of $242.12.\n\nCarmignac Gestion sold out a holding in Medtronic PLC. The sale prices were between $99.53 and $127.75, with an estimated average price of $115.4.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PYPL",
+                            "name": "PayPal Holdings, Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 93.84895,
+                            "sentiment_score": -0.2936,
+                            "highlights": [
+                                {
+                                    "highlight": "SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, <em>PayPal</em>",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Holdings</em> <em>Inc</em>, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion Buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Sells Salesforce.com Inc, Block Inc, <em>PayPal</em> <em>Holdings</em> <em>Inc</em>",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA",
+                            "name": "Tesla, Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 9.77711,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Carmignac Gestion initiated holding in <em>Tesla</em> <em>Inc</em>. The purchase prices were between $780.59 and $1229.91, with an estimated average price of $1012.35. The stock is now traded at around $860.000000. The impact to a portfolio due to this purchase was 0.45%. The holding were 30,420 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MELI",
+                            "name": "MercadoLibre, Inc.",
+                            "exchange": "NASDAQ",
+                            "exchange_long": "NASDAQ Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 21.37854,
+                            "sentiment_score": -0.048133,
+                            "highlights": [
+                                {
+                                    "highlight": "VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, <em>MercadoLibre</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion added to a holding in <em>MercadoLibre</em> <em>Inc</em> by 55.62%. The purchase prices were between $1052.95 and $1709.98, with an estimated average price of $1396.48. The stock is now traded at around $1091.090000. The impact to a portfolio due to this purchase was 1.27%. The holding were 187,595 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PANW",
+                            "name": "Palo Alto Networks, Inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 135.56976,
+                            "sentiment_score": -0.1462,
+                            "highlights": [
+                                {
+                                    "highlight": ", KC, GOOGL, RUN, YY, UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, <em>Palo</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Alto</em> <em>Networks</em> <em>Inc</em>, Pfizer Inc, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion added to a holding in <em>Palo</em> <em>Alto</em> <em>Networks</em> <em>Inc</em> by 98.87%. The purchase prices were between $469.54 and $568.34, with an estimated average price of $520.64. The stock is now traded at around $510.150000. The impact to a portfolio due to this purchase was 1.93%. The holding were 499,757 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion Buys Danaher Corp, Uber Technologies Inc, <em>Palo</em> <em>Alto</em> <em>Networks</em> <em>Inc</em>, Sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "STZ",
+                            "name": "Constellation Brands, Inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Defensive",
+                            "match_score": 18.391867,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Carmignac Gestion initiated holding in <em>Constellation</em> <em>Brands</em> <em>Inc</em>. The purchase prices were between $211.62 and $250.97, with an estimated average price of $228.43. The stock is now traded at around $235.940000. The impact to a portfolio due to this purchase was 0.78%. The holding were 221,128 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "STZ-B",
+                            "name": "Constellation Brands, Inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Defensive",
+                            "match_score": 18.391764,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Carmignac Gestion initiated holding in <em>Constellation</em> <em>Brands</em> <em>Inc</em>. The purchase prices were between $211.62 and $250.97, with an estimated average price of $228.43. The stock is now traded at around $235.940000. The impact to a portfolio due to this purchase was 0.78%. The holding were 221,128 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "FIS",
+                            "name": "Fidelity National Information Services, Inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 23.383543,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Carmignac Gestion sold out a holding in <em>Fidelity</em> <em>National</em> <em>Information</em> <em>Services</em> <em>Inc</em>. The sale prices were between $102.36 and $125.04, with an estimated average price of $112.73.\n\nCarmignac Gestion sold out a holding in Twilio Inc. The sale prices were between $248.17 and $369.23, with an estimated average price of $297.96.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PFE",
+                            "name": "Pfizer Inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 13.29504,
+                            "sentiment_score": 0.028767,
+                            "highlights": [
+                                {
+                                    "highlight": "UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, <em>Pfizer</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Shares reduced by 27.24%\n\nCarmignac Gestion initiated holding in <em>Pfizer</em> <em>Inc</em>. The purchase prices were between $41.32 and $61.25, with an estimated average price of $49.81. The stock is now traded at around $50.780000. The impact to a portfolio due to this purchase was 1.6%. The holding were 1,935,320 shares as of 2021-12-31.",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "XPEV",
+                            "name": "XPeng Inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 14.114854,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Carmignac Gestion initiated holding in <em>XPeng</em> <em>Inc</em>. The purchase prices were between $34.11 and $55, with an estimated average price of $45.39. The stock is now traded at around $37.270000. The impact to a portfolio due to this purchase was 0.41%. The holding were 582,589 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "UBER",
+                            "name": "Uber Technologies, Inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 88.54237,
+                            "sentiment_score": 0.0192,
+                            "highlights": [
+                                {
+                                    "highlight": "MTCH, COST, EDU, JD, NFLX, KC, GOOGL, RUN, YY, UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, <em>Uber</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Technologies</em> <em>Inc</em>, Palo Alto Networks Inc, Pfizer Inc, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For the details of Carmignac Gestion's stock buys and sells, go to https://www.gurufocus.com/guru/carmignac+gestion/current-portfolio/portfolio\n\n<em>Uber</em> <em>Technologies</em> <em>Inc</em> (UBER) - 11,614,651 shares, 6.81% of the total portfolio. Shares added by 48.35% JD.com Inc (JD) - 6,848,549 shares, 6.71% of the total portfolio.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion added to a holding in <em>Uber</em> <em>Technologies</em> <em>Inc</em> by 48.35%. The purchase prices were between $35.73 and $48.36, with an estimated average price of $43.04. The stock is now traded at around $35.290000. The impact to a portfolio due to this purchase was 2.22%. The holding were 11,614,651 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion Buys Danaher Corp, <em>Uber</em> <em>Technologies</em> <em>Inc</em>, Palo Alto Networks Inc, Sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CRM",
+                            "name": "salesforce.com, inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 69.42528,
+                            "sentiment_score": -0.2936,
+                            "highlights": [
+                                {
+                                    "highlight": "DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, MercadoLibre Inc, sells <em>Salesforce.com</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion Buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Sells <em>Salesforce.com</em> <em>Inc</em>, Block Inc, PayPal Holdings Inc",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TWLO",
+                            "name": "Twilio Inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 14.48663,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Carmignac Gestion sold out a holding in <em>Twilio</em> <em>Inc</em>. The sale prices were between $248.17 and $369.23, with an estimated average price of $297.96.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NOW",
+                            "name": "ServiceNow, Inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 14.192017,
+                            "sentiment_score": -0.2202,
+                            "highlights": [
+                                {
+                                    "highlight": ", INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, <em>ServiceNow</em>",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em> during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PFE-WI",
+                            "name": "Pfizer, Inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.295019,
+                            "sentiment_score": 0.028767,
+                            "highlights": [
+                                {
+                                    "highlight": "UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, <em>Pfizer</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Shares reduced by 27.24%\n\nCarmignac Gestion initiated holding in <em>Pfizer</em> <em>Inc</em>. The purchase prices were between $41.32 and $61.25, with an estimated average price of $49.81. The stock is now traded at around $50.780000. The impact to a portfolio due to this purchase was 1.6%. The holding were 1,935,320 shares as of 2021-12-31.",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MDT",
+                            "name": "Medtronic plc",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 15.177691,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Carmignac Gestion sold out a holding in <em>Medtronic</em> <em>PLC</em>. The sale prices were between $99.53 and $127.75, with an estimated average price of $115.4.\n\nCarmignac Gestion sold out a holding in Fidelity National Information Services Inc. The sale prices were between $102.36 and $125.04, with an estimated average price of $112.73.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PYPL.BA",
+                            "name": "PayPal Holdings, Inc.",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 93.80838,
+                            "sentiment_score": -0.2936,
+                            "highlights": [
+                                {
+                                    "highlight": "SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, <em>PayPal</em>",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Holdings</em> <em>Inc</em>, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion Buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Sells Salesforce.com Inc, Block Inc, <em>PayPal</em> <em>Holdings</em> <em>Inc</em>",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MELI.BA",
+                            "name": "MercadoLibre, Inc.",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 21.372953,
+                            "sentiment_score": -0.048133,
+                            "highlights": [
+                                {
+                                    "highlight": "VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, <em>MercadoLibre</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion added to a holding in <em>MercadoLibre</em> <em>Inc</em> by 55.62%. The purchase prices were between $1052.95 and $1709.98, with an estimated average price of $1396.48. The stock is now traded at around $1091.090000. The impact to a portfolio due to this purchase was 1.27%. The holding were 187,595 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JD.BA",
+                            "name": "JD.com, Inc.",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 13.515808,
+                            "sentiment_score": 0.8807,
+                            "highlights": [
+                                {
+                                    "highlight": "Shares added by 48.35% <em>JD.com</em> <em>Inc</em> (JD) - 6,848,549 shares, 6.71% of the total portfolio. Shares reduced by 8.31% Amazon.com Inc (AMZN) - 142,242 shares, 6.63% of the total portfolio. Shares added by 9.49% Meta Platforms Inc (FB) - 1,061,390 shares, 4.99% of the total portfolio.",
+                                    "sentiment": 0.8807,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MDT.BA",
+                            "name": "Medtronic plc",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 15.175555,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Carmignac Gestion sold out a holding in <em>Medtronic</em> <em>PLC</em>. The sale prices were between $99.53 and $127.75, with an estimated average price of $115.4.\n\nCarmignac Gestion sold out a holding in Fidelity National Information Services Inc. The sale prices were between $102.36 and $125.04, with an estimated average price of $112.73.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CRM.BA",
+                            "name": "salesforce.com, inc.",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 69.33889,
+                            "sentiment_score": -0.2936,
+                            "highlights": [
+                                {
+                                    "highlight": "DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, MercadoLibre Inc, sells <em>Salesforce.com</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion Buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Sells <em>Salesforce.com</em> <em>Inc</em>, Block Inc, PayPal Holdings Inc",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLAD.BA",
+                            "name": "TESLA INC",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 9.776827,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Carmignac Gestion initiated holding in <em>Tesla</em> <em>Inc</em>. The purchase prices were between $780.59 and $1229.91, with an estimated average price of $1012.35. The stock is now traded at around $860.000000. The impact to a portfolio due to this purchase was 0.45%. The holding were 30,420 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTD.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 14.208698,
+                            "sentiment_score": 0.080133,
+                            "highlights": [
+                                {
+                                    "highlight": "TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, <em>Microsoft</em>",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Corp</em>, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Shares added by 20.59% <em>Microsoft</em> <em>Corp</em> (MSFT) - 1,050,630 shares, 4.94% of the total portfolio. Shares reduced by 27.24%\n\nCarmignac Gestion initiated holding in Pfizer Inc. The purchase prices were between $41.32 and $61.25, with an estimated average price of $49.81. The stock is now traded at around $50.780000.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PFED.BA",
+                            "name": "PFIZER INC",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.294931,
+                            "sentiment_score": 0.028767,
+                            "highlights": [
+                                {
+                                    "highlight": "UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, <em>Pfizer</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Shares reduced by 27.24%\n\nCarmignac Gestion initiated holding in <em>Pfizer</em> <em>Inc</em>. The purchase prices were between $41.32 and $61.25, with an estimated average price of $49.81. The stock is now traded at around $50.780000. The impact to a portfolio due to this purchase was 1.6%. The holding were 1,935,320 shares as of 2021-12-31.",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTB.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 14.208698,
+                            "sentiment_score": 0.080133,
+                            "highlights": [
+                                {
+                                    "highlight": "TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, <em>Microsoft</em>",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Corp</em>, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Shares added by 20.59% <em>Microsoft</em> <em>Corp</em> (MSFT) - 1,050,630 shares, 4.94% of the total portfolio. Shares reduced by 27.24%\n\nCarmignac Gestion initiated holding in Pfizer Inc. The purchase prices were between $41.32 and $61.25, with an estimated average price of $49.81. The stock is now traded at around $50.780000.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTC.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 14.208698,
+                            "sentiment_score": 0.080133,
+                            "highlights": [
+                                {
+                                    "highlight": "TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, <em>Microsoft</em>",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Corp</em>, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Shares added by 20.59% <em>Microsoft</em> <em>Corp</em> (MSFT) - 1,050,630 shares, 4.94% of the total portfolio. Shares reduced by 27.24%\n\nCarmignac Gestion initiated holding in Pfizer Inc. The purchase prices were between $41.32 and $61.25, with an estimated average price of $49.81. The stock is now traded at around $50.780000.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLAC.BA",
+                            "name": "TESLA INC",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 9.776827,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Carmignac Gestion initiated holding in <em>Tesla</em> <em>Inc</em>. The purchase prices were between $780.59 and $1229.91, with an estimated average price of $1012.35. The stock is now traded at around $860.000000. The impact to a portfolio due to this purchase was 0.45%. The holding were 30,420 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MELID.BA",
+                            "name": "MERCADOLIBRE INC",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 21.372953,
+                            "sentiment_score": -0.048133,
+                            "highlights": [
+                                {
+                                    "highlight": "VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, <em>MercadoLibre</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion added to a holding in <em>MercadoLibre</em> <em>Inc</em> by 55.62%. The purchase prices were between $1052.95 and $1709.98, with an estimated average price of $1396.48. The stock is now traded at around $1091.090000. The impact to a portfolio due to this purchase was 1.27%. The holding were 187,595 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MELIC.BA",
+                            "name": "MERCADOLIBRE INC",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 21.372953,
+                            "sentiment_score": -0.048133,
+                            "highlights": [
+                                {
+                                    "highlight": "VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, <em>MercadoLibre</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion added to a holding in <em>MercadoLibre</em> <em>Inc</em> by 55.62%. The purchase prices were between $1052.95 and $1709.98, with an estimated average price of $1396.48. The stock is now traded at around $1091.090000. The impact to a portfolio due to this purchase was 1.27%. The holding were 187,595 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MELIB.BA",
+                            "name": "MERCADOLIBRE INC",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 21.372953,
+                            "sentiment_score": -0.048133,
+                            "highlights": [
+                                {
+                                    "highlight": "VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, <em>MercadoLibre</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion added to a holding in <em>MercadoLibre</em> <em>Inc</em> by 55.62%. The purchase prices were between $1052.95 and $1709.98, with an estimated average price of $1396.48. The stock is now traded at around $1091.090000. The impact to a portfolio due to this purchase was 1.27%. The holding were 187,595 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ETSY.BA",
+                            "name": "Etsy, Inc.",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.749323,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "YY, UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII,\n\nCRM, SQ, PYPL, MSFT, NOW, ULTA, LULU, V, MTCH, COST, EDU, JD, NFLX, KC, GOOGL, RUN, YY, UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, <em>ETSY</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion sold out a holding in <em>Etsy</em> <em>Inc</em>. The sale prices were between $198.72 and $296.91, with an estimated average price of $242.12.\n\nCarmignac Gestion sold out a holding in Medtronic PLC. The sale prices were between $99.53 and $127.75, with an estimated average price of $115.4.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CRMD.BA",
+                            "name": "SALESFORCE.COM INC",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 69.33889,
+                            "sentiment_score": -0.2936,
+                            "highlights": [
+                                {
+                                    "highlight": "DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, MercadoLibre Inc, sells <em>Salesforce.com</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion Buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Sells <em>Salesforce.com</em> <em>Inc</em>, Block Inc, PayPal Holdings Inc",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ETSYD.BA",
+                            "name": "ETSY INC",
+                            "exchange": "BCBA",
+                            "exchange_long": "Buenos Aires Stock Exchange",
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.749323,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "YY, UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII,\n\nCRM, SQ, PYPL, MSFT, NOW, ULTA, LULU, V, MTCH, COST, EDU, JD, NFLX, KC, GOOGL, RUN, YY, UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, <em>ETSY</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion sold out a holding in <em>Etsy</em> <em>Inc</em>. The sale prices were between $198.72 and $296.91, with an estimated average price of $242.12.\n\nCarmignac Gestion sold out a holding in Medtronic PLC. The sale prices were between $99.53 and $127.75, with an estimated average price of $115.4.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": "SSE",
+                            "exchange_long": "Santiago Stock Exchange",
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 11.440762,
+                            "sentiment_score": 0.8807,
+                            "highlights": [
+                                {
+                                    "highlight": "Shares reduced by 8.31% <em>Amazon.com</em> <em>Inc</em> (AMZN) - 142,242 shares, 6.63% of the total portfolio. Shares added by 9.49% Meta Platforms Inc (FB) - 1,061,390 shares, 4.99% of the total portfolio. Shares added by 20.59% Microsoft Corp (MSFT) - 1,050,630 shares, 4.94% of the total portfolio.",
+                                    "sentiment": 0.8807,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TUYA",
+                            "name": "Tuya Inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 17.221176,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "OZON, DMTK, RMD, TXG, ADSK, TSM, ADBE, NDSN, HDB, ANSS, TRU, VEEV, ST, BRO, GDRX, TASK, EL, MOMO, ZTS, MASI, DIS, EA, ISRG, HLT, SSNC, CTAS, CPRT, PAYX, MAR, Reduced Positions: CRM, SQ, PYPL, MSFT, NOW, ULTA, LULU, V, MTCH, COST, EDU, JD, NFLX, KC, GOOGL, RUN, YY, UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, <em>TUYA</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", ECL, GRMN, WM, INTU, LII,\n\nCRM, SQ, PYPL, MSFT, NOW, ULTA, LULU, V, MTCH, COST, EDU, JD, NFLX, KC, GOOGL, RUN, YY, UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, <em>TUYA</em>, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTCL.SN",
+                            "name": "MICROSOFT CORP",
+                            "exchange": "SSE",
+                            "exchange_long": "Santiago Stock Exchange",
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 14.20826,
+                            "sentiment_score": 0.080133,
+                            "highlights": [
+                                {
+                                    "highlight": "TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, <em>Microsoft</em>",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Corp</em>, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Shares added by 20.59% <em>Microsoft</em> <em>Corp</em> (MSFT) - 1,050,630 shares, 4.94% of the total portfolio. Shares reduced by 27.24%\n\nCarmignac Gestion initiated holding in Pfizer Inc. The purchase prices were between $41.32 and $61.25, with an estimated average price of $49.81. The stock is now traded at around $50.780000.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZNCL.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": "SSE",
+                            "exchange_long": "Santiago Stock Exchange",
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.439612,
+                            "sentiment_score": 0.8807,
+                            "highlights": [
+                                {
+                                    "highlight": "Shares reduced by 8.31% <em>Amazon.com</em> <em>Inc</em> (AMZN) - 142,242 shares, 6.63% of the total portfolio. Shares added by 9.49% Meta Platforms Inc (FB) - 1,061,390 shares, 4.99% of the total portfolio. Shares added by 20.59% Microsoft Corp (MSFT) - 1,050,630 shares, 4.94% of the total portfolio.",
+                                    "sentiment": 0.8807,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "S",
+                            "name": "SentinelOne, Inc.",
+                            "exchange": "NYSE",
+                            "exchange_long": "New York Stock Exchange",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.454584,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Carmignac Gestion initiated holding in <em>SentinelOne</em> <em>Inc</em>. The purchase prices were between $45.01 and $76.3, with an estimated average price of $58.55. The stock is now traded at around $45.080000. The impact to a portfolio due to this purchase was 0.36%. The holding were 513,440 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PFECL.SN",
+                            "name": "PFIZER INC",
+                            "exchange": "SSE",
+                            "exchange_long": "Santiago Stock Exchange",
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.294712,
+                            "sentiment_score": 0.028767,
+                            "highlights": [
+                                {
+                                    "highlight": "UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, <em>Pfizer</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Shares reduced by 27.24%\n\nCarmignac Gestion initiated holding in <em>Pfizer</em> <em>Inc</em>. The purchase prices were between $41.32 and $61.25, with an estimated average price of $49.81. The stock is now traded at around $50.780000. The impact to a portfolio due to this purchase was 1.6%. The holding were 1,935,320 shares as of 2021-12-31.",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PFE.SN",
+                            "name": "Pfizer Inc.",
+                            "exchange": "SSE",
+                            "exchange_long": "Santiago Stock Exchange",
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 13.294712,
+                            "sentiment_score": 0.028767,
+                            "highlights": [
+                                {
+                                    "highlight": "UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, <em>Pfizer</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Shares reduced by 27.24%\n\nCarmignac Gestion initiated holding in <em>Pfizer</em> <em>Inc</em>. The purchase prices were between $41.32 and $61.25, with an estimated average price of $49.81. The stock is now traded at around $50.780000. The impact to a portfolio due to this purchase was 1.6%. The holding were 1,935,320 shares as of 2021-12-31.",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JDCMF",
+                            "name": "JD.com, Inc.",
+                            "exchange": "OTC",
+                            "exchange_long": "Over-the-counter Markets",
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 13.513404,
+                            "sentiment_score": 0.8807,
+                            "highlights": [
+                                {
+                                    "highlight": "Shares added by 48.35% <em>JD.com</em> <em>Inc</em> (JD) - 6,848,549 shares, 6.71% of the total portfolio. Shares reduced by 8.31% Amazon.com Inc (AMZN) - 142,242 shares, 6.63% of the total portfolio. Shares added by 9.49% Meta Platforms Inc (FB) - 1,061,390 shares, 4.99% of the total portfolio.",
+                                    "sentiment": 0.8807,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZ.DE",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": "XETRA",
+                            "exchange_long": "Deutsche Börse Xetra",
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 11.44286,
+                            "sentiment_score": 0.8807,
+                            "highlights": [
+                                {
+                                    "highlight": "Shares reduced by 8.31% <em>Amazon.com</em> <em>Inc</em> (AMZN) - 142,242 shares, 6.63% of the total portfolio. Shares added by 9.49% Meta Platforms Inc (FB) - 1,061,390 shares, 4.99% of the total portfolio. Shares added by 20.59% Microsoft Corp (MSFT) - 1,050,630 shares, 4.94% of the total portfolio.",
+                                    "sentiment": 0.8807,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TL0.DE",
+                            "name": "Tesla, Inc.",
+                            "exchange": "XETRA",
+                            "exchange_long": "Deutsche Börse Xetra",
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 9.776374,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Carmignac Gestion initiated holding in <em>Tesla</em> <em>Inc</em>. The purchase prices were between $780.59 and $1229.91, with an estimated average price of $1012.35. The stock is now traded at around $860.000000. The impact to a portfolio due to this purchase was 0.45%. The holding were 30,420 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PFE.DE",
+                            "name": "Pfizer Inc.",
+                            "exchange": "XETRA",
+                            "exchange_long": "Deutsche Börse Xetra",
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 13.294596,
+                            "sentiment_score": 0.028767,
+                            "highlights": [
+                                {
+                                    "highlight": "UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, <em>Pfizer</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Shares reduced by 27.24%\n\nCarmignac Gestion initiated holding in <em>Pfizer</em> <em>Inc</em>. The purchase prices were between $41.32 and $61.25, with an estimated average price of $49.81. The stock is now traded at around $50.780000. The impact to a portfolio due to this purchase was 1.6%. The holding were 1,935,320 shares as of 2021-12-31.",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "UT8.DE",
+                            "name": "Uber Technologies Inc",
+                            "exchange": "XETRA",
+                            "exchange_long": "Deutsche Börse Xetra",
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 88.52869,
+                            "sentiment_score": 0.0192,
+                            "highlights": [
+                                {
+                                    "highlight": "MTCH, COST, EDU, JD, NFLX, KC, GOOGL, RUN, YY, UNH, ANTM, VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, <em>Uber</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Technologies</em> <em>Inc</em>, Palo Alto Networks Inc, Pfizer Inc, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For the details of Carmignac Gestion's stock buys and sells, go to https://www.gurufocus.com/guru/carmignac+gestion/current-portfolio/portfolio\n\n<em>Uber</em> <em>Technologies</em> <em>Inc</em> (UBER) - 11,614,651 shares, 6.81% of the total portfolio. Shares added by 48.35% JD.com Inc (JD) - 6,848,549 shares, 6.71% of the total portfolio.",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion added to a holding in <em>Uber</em> <em>Technologies</em> <em>Inc</em> by 48.35%. The purchase prices were between $35.73 and $48.36, with an estimated average price of $43.04. The stock is now traded at around $35.290000. The impact to a portfolio due to this purchase was 2.22%. The holding were 11,614,651 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion Buys Danaher Corp, <em>Uber</em> <em>Technologies</em> <em>Inc</em>, Palo Alto Networks Inc, Sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MLB1.DE",
+                            "name": "MercadoLibre, Inc.",
+                            "exchange": "XETRA",
+                            "exchange_long": "Deutsche Börse Xetra",
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 21.347343,
+                            "sentiment_score": -0.048133,
+                            "highlights": [
+                                {
+                                    "highlight": "VIPS, AMED, ICE, NOVA, VMW, DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, <em>MercadoLibre</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, sells Salesforce.com Inc, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion added to a holding in <em>MercadoLibre</em> <em>Inc</em> by 55.62%. The purchase prices were between $1052.95 and $1709.98, with an estimated average price of $1396.48. The stock is now traded at around $1091.090000. The impact to a portfolio due to this purchase was 1.27%. The holding were 187,595 shares as of 2021-12-31.",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "FOO.DE",
+                            "name": "salesforce.com, inc.",
+                            "exchange": "XETRA",
+                            "exchange_long": "Deutsche Börse Xetra",
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 69.32063,
+                            "sentiment_score": -0.2936,
+                            "highlights": [
+                                {
+                                    "highlight": "DQ, RGNX, MNSO, OLK, PTRA, SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, MercadoLibre Inc, sells <em>Salesforce.com</em>",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Inc</em>, Block Inc, PayPal Holdings Inc, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion Buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Sells <em>Salesforce.com</em> <em>Inc</em>, Block Inc, PayPal Holdings Inc",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "2PP.DE",
+                            "name": "PayPal Holdings, Inc.",
+                            "exchange": "XETRA",
+                            "exchange_long": "Deutsche Börse Xetra",
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 93.85675,
+                            "sentiment_score": -0.2936,
+                            "highlights": [
+                                {
+                                    "highlight": "SEDG, NVDA, DAR, ON, TUYA, ECL, GRMN, WM, INTU, LII, Sold Out: COF, GPS, ETSY, MDT, FIS, TWLO, XLRN, GBIO, SPLK, CHGG, TWTR, NARI, TAL, BKNG, TOST, WPM, ROL, IFS,\n\nParis, I0, based Investment company Current Portfolio ) buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Pfizer Inc, MercadoLibre Inc, sells Salesforce.com Inc, Block Inc, <em>PayPal</em>",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Holdings</em> <em>Inc</em>, Microsoft Corp, ServiceNow Inc during the 3-months ended 2021Q4, according to the most recent filings of the investment company, Carmignac Gestion.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Carmignac Gestion Buys Danaher Corp, Uber Technologies Inc, Palo Alto Networks Inc, Sells Salesforce.com Inc, Block Inc, <em>PayPal</em> <em>Holdings</em> <em>Inc</em>",
+                                    "sentiment": -0.4404,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "2M6.DE",
+                            "name": "Medtronic plc",
+                            "exchange": "XETRA",
+                            "exchange_long": "Deutsche Börse Xetra",
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 15.168907,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Carmignac Gestion sold out a holding in <em>Medtronic</em> <em>PLC</em>. The sale prices were between $99.53 and $127.75, with an estimated average price of $115.4.\n\nCarmignac Gestion sold out a holding in Fidelity National Information Services Inc. The sale prices were between $102.36 and $125.04, with an estimated average price of $112.73.",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

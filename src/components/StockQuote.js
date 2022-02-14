@@ -45,11 +45,7 @@ const StockQuote = props => {
     <View style={styles.container}>
       <View style={styles.row}>
         <Text style={styles.quoteText}>
-          High:
-          {Number.parseFloat(quote['03. high']).toFixed(3)}
-        </Text>
-        <Text style={styles.quoteText}>
-          Open: {Number.parseFloat(quote['02. open']).toFixed(3)}
+          Latest trading day: {quote['07. latest trading day']}
         </Text>
         <Text style={styles.quoteText}>Vol: {quote['06. volume']}</Text>
         <View style={[styles.priceRow, {alignItems: 'flex-end'}]}>
@@ -69,11 +65,11 @@ const StockQuote = props => {
       </View>
       <View style={styles.row}>
         <Text style={styles.quoteText}>
-          Low: {Number.parseFloat(quote['04. low']).toFixed(3)}
+          High:
+          {Number.parseFloat(quote['03. high']).toFixed(3)}
         </Text>
         <Text style={styles.quoteText}>
-          Prev. Close:
-          {Number.parseFloat(quote['08. previous close']).toFixed(3)}
+          Open: {Number.parseFloat(quote['02. open']).toFixed(3)}
         </Text>
         <View style={[styles.changeRow, {alignItems: 'flex-end'}]}>
           <Text
@@ -91,6 +87,15 @@ const StockQuote = props => {
             {quote['10. change percent']}
           </Text>
         </View>
+      </View>
+      <View style={styles.row}>
+        <Text style={styles.quoteText}>
+          Low: {Number.parseFloat(quote['04. low']).toFixed(3)}
+        </Text>
+        <Text style={styles.quoteText}>
+          Prev. Close:
+          {Number.parseFloat(quote['08. previous close']).toFixed(3)}
+        </Text>
       </View>
     </View>
   );
@@ -131,7 +136,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     flexWrap: 'wrap',
     backgroundColor: '#000',
-    paddingLeft: '15%',
+    paddingLeft: '20%',
   },
   changePercent: {
     fontSize: 11,
