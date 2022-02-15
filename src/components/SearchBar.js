@@ -16,6 +16,10 @@ const SearchBar = () => {
   };
 
   useEffect(() => {
+    cancelSearchList();
+  }, []);
+
+  useEffect(() => {
     let isCancelled = false;
 
     console.log('here:' + searchText);
@@ -69,6 +73,7 @@ const SearchBar = () => {
 
     return () => {
       isCancelled = true;
+      console.log('here');
     };
   }, [searchText]);
 
@@ -154,7 +159,7 @@ const styles = StyleSheet.create({
     color: '#fff',
   },
   searchResultList: {
-    height: '80%',
+    height: '50%',
     backgroundColor: '#000',
     padding: 10,
   },

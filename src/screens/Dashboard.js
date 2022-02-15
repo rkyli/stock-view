@@ -15,6 +15,7 @@ import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
 import {SafeAreaView} from 'react-native-safe-area-context';
 import Config from 'react-native-config';
 import SearchBar from '../components/SearchBar';
+import WatchList from '../components/WatchList';
 export default class Dashboard extends React.Component {
   constructor({props, navigation}) {
     super(props);
@@ -40,7 +41,7 @@ export default class Dashboard extends React.Component {
     return (
       <>
         <SearchBar navigation={this.navigation} />
-        <View style={styles.rest}></View>
+        <View style={styles.rest}>{/* <WatchList /> */}</View>
       </>
     );
   }
@@ -53,10 +54,10 @@ export default class Dashboard extends React.Component {
 
 const styles = StyleSheet.create({
   container: {
-    height: '100%',
+    height: '50%',
   },
   rest: {
-    height: '50%',
+    height: '30%',
     backgroundColor: '#000',
   },
 });

@@ -37,7 +37,13 @@ export default function App() {
     <SafeAreaProvider>
       <NavigationContainer>
         <Stack.Navigator initialRouteName="Loading">
-          <Stack.Screen name="SignUp" component={SignUp} />
+          <Stack.Screen
+            name="SignUp"
+            component={SignUp}
+            options={({navigation}) => ({
+              title: 'StockView',
+            })}
+          />
           <Stack.Screen name="Login" component={Login} />
           <Stack.Screen
             name="Dashboard"
