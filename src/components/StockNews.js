@@ -28,12 +28,7 @@ const StockNews = props => {
     };
     //setNewsList(newsData.data);
     newsData();
-    console.log(
-      'erraaa:' +
-        `${Config.MARKETAUX_QUERY_NEWS_URL}?symbols=${props.stockSymbol}&filter_entities=true&language=en&api_token=${Config.MARKETAUX_API_KEY}`,
-    );
-    console.log('news list:' + newsList);
-  }, []);
+  }, [props.stockSymbol]);
 
   const redirectToBrowser = url => {
     console.log('url clilcked:' + url);
