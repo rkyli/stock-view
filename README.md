@@ -15,15 +15,16 @@ https://user-images.githubusercontent.com/33162141/154004285-4852bb2c-eb0c-4321-
 Installation (Mac):
 
 Prerequisites: 
- - brew install mode
- - brew install cocoapods
+```
+ brew install node
+ brew install cocoapods
+```
 
+1. Run ```npm install``` to install all dependencies used by this project
 
-1. Run "npm install" to install all dependencies used by this project
+2. Browse to /ios directory, and run ```pod install```to install the dependencies defined in the Podfile in the Xcode project foler.
 
-2. Browse to /ios directory, and run "pod install" to install the dependencies defined in the Podfile in the Xcode project foler.
-
-3. Go back to the root directory, run "npx react-native run-ios"
+3. Go back to the root directory, run ```npx react-native run-ios```
 
 
 ----------------------------------
@@ -31,8 +32,8 @@ Issue encountered when building react-native (iOS):
 
 1. Stuck in Installing Flipper-Glog (0.3.6):
 
-	- Solution: comment out flipper part in Podfile
-
+ Solution: comment out flipper part in Podfile
+```
   # Enables Flipper.
   #
   # Note that if you have use_frameworks! enabled, Flipper will not work and
@@ -42,17 +43,18 @@ Issue encountered when building react-native (iOS):
   #   flipper_post_install(installer)
   # end
 end
-
+```
 2. Stuck in Installing glog (0.3.5):
 
-	- Solution: 
-
+Solution: 
+```
 sudo xcode-select --switch /Applications/Xcode.app
 cd ios && pod install
+```
 
 3. Some error messages , app-registry..XXXX
 
-Solution : clear cache => npm start -- --reset-cache
+Solution : clear cache => ```npm start -- --reset-cache```
 
 
 ----------------------------------
